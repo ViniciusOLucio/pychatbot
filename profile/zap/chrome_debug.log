@@ -1,0 +1,5 @@
+[10292:5292:1212/103218.376:WARNING:chrome_main_delegate.cc(672)] This is Chrome version 131.0.6778.110 (not a warning)
+[10292:5292:1212/103218.460:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[10932:10812:1212/103218.679:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[10292:5292:1212/103221.624:INFO:CONSOLE(155)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yG/r/yAu8-k0yaAW.js (155)
+[10292:5292:1212/103224.096:INFO:CONSOLE(1)] "Error while trying to use the following icon from the Manifest: https://static.whatsapp.net/rsrc.php/v4/y6/r/wUdZIpzQW6Q.png (Download error or resource isn't a valid image)", source: https://web.whatsapp.com/?post_logout=1 (1)
